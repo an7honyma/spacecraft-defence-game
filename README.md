@@ -9,6 +9,7 @@ Installation Guide:
 5. Specify the installation location. Default parent directory should be 'Downloads'. Select 'Install'.
 6. Once installation is complete, navigate to the specified installation location, and open folder 'Defence Game'.
 7. Click on 'Spacecraft Defence.exe' to start the game.
+8. For convenience, you can add a desktop shortcut for 'Spacecraft Defence.exe'.
 
 Game Controls:
 
