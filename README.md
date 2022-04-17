@@ -1,5 +1,5 @@
 # spacecraft-defence-game
-First proper Pygame project
+Welcome to my first Python game project, using the Pygame library.
 
 Installation Guide:
 1. Navigate to the Releases tab of the GitHub repository.
@@ -11,3 +11,20 @@ Installation Guide:
 7. Click on 'Spacecraft Defence.exe' to start the game.
 
 Game Controls:
+[W] - Move up
+[A] - Move left
+[S] - Move right
+[D] - Move down
+[E] - Open construction menu
+[R] - Open construction grid
+[T] - Demolition mode
+[Q] - Quit all menus
+[SPACE] - Play
+[ESC] - Open game menu
+[LEFT_MOUSE] - Attack / Select
+[MIDDLE_MOUSE] - Pause
+[RIGHT_MOUSE] - Disable demolition mode
+[1] - Ability 1
+[2] - Ability 2
+[3] - Ability 3
+[4] - Abiltiy 4
