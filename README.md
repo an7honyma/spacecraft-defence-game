@@ -11,6 +11,7 @@ Installation Guide:
 7. Click on 'Spacecraft Defence.exe' to start the game.
 
 Game Controls:
+
 [W] - Move up
 
 [A] - Move left
@@ -43,4 +44,4 @@ Game Controls:
 
 [3] - Ability 3
 
-[4] - Abiltiy 4
+[4] - Ability 4
