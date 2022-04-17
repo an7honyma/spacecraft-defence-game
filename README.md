@@ -1,4 +1,8 @@
 # spacecraft-defence-game
 First proper Pygame project
 
-Set-up guide:
+Installation Guide:
+1. Navigate to the Releases tab of the GitHub repository.
+2. 
+
+Game Controls:
