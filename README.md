@@ -17,9 +17,9 @@ Game Controls:
 
 [A] - Move left
 
-[S] - Move right
+[S] - Move down
 
-[D] - Move down
+[D] - Move right
 
 [E] - Open construction menu
 
